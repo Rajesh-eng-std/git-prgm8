@@ -1,4 +1,4 @@
-project: Release Management with Tags.
-Version: 1.0.
-Status: Stable.
-Purpose: Demonstrate Git Tagging and Release Management.
+project: release management with tags
+version: 1.0
+status: stable
+purpose: demonstrate git tagging and release management
